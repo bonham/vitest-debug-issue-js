@@ -14,3 +14,7 @@
 Result:
 
 ![Bug](/bug.png)
+
+## Notes
+
+- Issue goes away when removing `<script>...</script>` section from [SimpleComponent.vue](./src/components/SimpleComponent.vue)
