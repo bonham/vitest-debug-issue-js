@@ -8,7 +8,7 @@
 
 1. Check out repo
 2. `npm install`
-3. Set breakpoint in SimpleComponentVue at line with `console.log`statement
+3. Set breakpoint in [SimpleComponent.vue](./src/components/SimpleComponent.vue) at line with `console.log`statement
 4. Run tests in debug mode
 
 Result:
