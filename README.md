@@ -1,8 +1,8 @@
-# Demonstrate breakpoint bug with vitest and vue files
+# Issue: Debugger in vs-code does not stop at breakpoint but elsewhere
 
-- This project was created with npm create vite@latest
+I have created a vanilla project with vue3 + vitest + @testing-library/vue + node 18.18.2. However, setting and debugging breakpoints in vs-code does not work. I am using vue single file components ( aka .vue files )
 
-## Issue: Debugger in vs-code does not stop at breakpoint but elsewhere
+The project was created with `npm create vue@latest` with standard options.
 
 ## How to reproduce
 
