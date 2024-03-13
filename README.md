@@ -19,3 +19,7 @@ Result:
 
 - Issue goes away when removing `<style>...</style>` section from [SimpleComponent.vue](./src/components/SimpleComponent.vue)
 - Issue goes away ( meaning, debugger break is correctly displayed ) when setting same breakpoint and starting vite dev server in debug mode. So it does not seem to be vite itself
+
+## See also
+
+- Created a bug report here: https://github.com/vitest-dev/vitest/issues/5380
